@@ -1,0 +1,65 @@
+*{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+a {
+    font-size: 20px;
+   
+    color: rgb(255, 255, 255);
+    float: right;
+    margin: 5px;
+    font-style: normal;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    
+}
+#cabecario{
+    border-bottom: 3px solid black;
+    background-color:rgb(129, 2, 2);
+    height: 50px;
+    margin-bottom: 15px;
+    padding:9px;
+    padding-bottom: 0px;
+
+
+
+}
+body{
+    background-color: rgba(153, 152, 152, 0.315);
+    margin: 0px;
+}
+
+#conteudo{
+    margin-left: 300px;
+    padding: 5px;
+    width: 700px;
+    height:785px;
+    background-color: white;
+    font-size: larger;
+ 
+
+}
+#seta{
+    width:320px;
+    float: left;
+}
+#s{
+    width: 300px;
+    float: right;
+}
+
+#direitos{
+    margin-top: 15px;
+    padding: 10px;
+    border-top: 2px solid black;
+    
+    text-align: center;
+  
+}
+
+
